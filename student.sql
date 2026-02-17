@@ -9,6 +9,8 @@ percent decimal(5,2)
 );
 
 
+
+
 select * from student;
 
 
